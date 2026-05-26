@@ -1,2 +1,2 @@
 # embedding_semantic_evolution_analysis
-Analyzed semantic structure formation in autoregressive language models across 80k training steps using Pythia checkpoints and human similarity benchmarks. Probed scale-dependent semantic alignment with correlation metrics, revealing non-monotonic changes in embedding-space organization during pretraining.
+Conducted longitudinal representation analysis of semantic structure formation in autoregressive language models across 80,000 training steps using Pythia checkpoints and human-judgment similarity benchmarks. Investigated scale-dependent semantic alignment dynamics through correlation-based probing metrics, revealing non-monotonic evolution patterns in embedding-space organization during pretraining.
